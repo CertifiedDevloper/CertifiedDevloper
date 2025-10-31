@@ -38,7 +38,7 @@
     </ul>
   </td>
   <td width="30%" align="center">
-    <img src="https://github.com/CertifiedDevloper/CertifiedDeveloper/blob/main/Robo.webp" width="170" alt="Robo" />
+    <img src="https://github.com/CertifiedDevloper/CertifiedDevloper/blob/main/Robo.webp" width="170" alt="Robo" />
   </td>
 </tr>
 </table>
